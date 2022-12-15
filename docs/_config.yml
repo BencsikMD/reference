@@ -28,6 +28,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://bencsikmd.github.io/reference/" 
 twitter_username: ''
 github_username:  ''
+github: [metadata]
 
 # Build settings
 # theme: minima

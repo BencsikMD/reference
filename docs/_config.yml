@@ -32,7 +32,7 @@ github: [metadata]
 
 # Build settings
 # theme: minima
-theme: minimal-mistakes-jekyll # mdb 12/14/22
+remote_theme: minimal-mistakes-jekyll # mdb 12/14/22
 plugins:
   - jekyll-feed
 

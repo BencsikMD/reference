@@ -18,12 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Reference Pages
-email: ''
+title: Bencsik's Reference
+email: 'TBD'
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A central location to keep notes and documention instead of using hundreds
+  of bookmarks or note-taking apps that don't quite function the way I would like.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://bencsikmd.github.io/reference/" 
 twitter_username: ''
@@ -34,7 +33,7 @@ github: [metadata]
 # theme: minima
 remote_theme: "mmistakes/minimal-mistakes" # mdb 12/14/22
 plugins:
-  - jekyll-feed
+  #- jekyll-feed
   - jekyll-include-cache
 
 # Exclude from processing.

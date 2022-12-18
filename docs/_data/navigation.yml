@@ -1,0 +1,20 @@
+# Test sidebar navigation 12/18/22
+
+reference:
+  - title: Computer Science
+    children:
+      - title: "Python"
+        url: /ReferenceTree/ComputerScience/Python/python
+      - title: "test"
+        url: /
+      - title: "test"
+        url: /
+      - title: "test"
+        url: /
+      
+
+python:
+  - title: Installation
+    children:
+      - title: "Install Python on Debian"
+        url: /ReferenceTree/ComputerScience/Python/Installation/installationDebian

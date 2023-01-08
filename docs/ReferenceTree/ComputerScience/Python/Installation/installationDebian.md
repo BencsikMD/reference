@@ -11,7 +11,7 @@ Debian comes with a specific version of python3 via the repository. [Packages-St
 
 ## Introduction
 
-This write-up explains how to install multiple versions of python on Debian and switch between them in a simple manner that makes sense to me.
+This write-up explains how to install multiple versions of python on Debian and switch between them in a simple manner that makes sense to me. I have combined information from the pages found in [References](#references) section
 
 Originally tested with the following spec:
 

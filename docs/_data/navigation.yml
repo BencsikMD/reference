@@ -13,8 +13,12 @@ reference:
         url: /
       
 
-python:
+computer science:
   - title: Installation
     children:
       - title: "Install Python on Debian"
         url: /ReferenceTree/ComputerScience/Python/Installation/installationDebian
+  -title: Debian Commands
+    children:
+      - title: "update-alternatives"
+        url: /ReferenceTree/Linux/Debian/Commands/update-alternatives

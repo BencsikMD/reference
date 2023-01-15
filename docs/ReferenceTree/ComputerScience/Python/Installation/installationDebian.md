@@ -2,7 +2,7 @@
 title: Install Specific Python Version on Debian
 layout: single
 sidebar:
-    nav: python
+    nav: computer science
 ---
 
 Jan. 8, 2023

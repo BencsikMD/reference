@@ -70,6 +70,8 @@ update-alternatives --config name
 | - | - |
 | name | py |
 
+### Example Config
+
 ```console
 $ sudo update-alternatives --config py
 There are 3 choices for the alternative py (providing /usr/bin/python).

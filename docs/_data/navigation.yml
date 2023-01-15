@@ -3,22 +3,16 @@
 reference:
   - title: Computer Science
     children:
-      - title: "Python"
-        url: /ReferenceTree/ComputerScience/Python/python
-      - title: "test"
-        url: /
-      - title: "test"
-        url: /
-      - title: "test"
-        url: /
+      - title: "Computer Science"
+        url: /ReferenceTree/ComputerScience/Python/computerScience
       
 
 computer science:
-  - title: Installation
+  - title: Python
     children:
       - title: "Install Python on Debian"
         url: /ReferenceTree/ComputerScience/Python/Installation/installationDebian
   - title: Debian Commands
     children:
-      - title: "update-alternatives"
+      - title: "update-alternatives Command"
         url: /ReferenceTree/Linux/Debian/Commands/update-alternatives

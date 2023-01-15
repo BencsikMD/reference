@@ -18,7 +18,7 @@ computer science:
     children:
       - title: "Install Python on Debian"
         url: /ReferenceTree/ComputerScience/Python/Installation/installationDebian
-  -title: Debian Commands
+  - title: Debian Commands
     children:
       - title: "update-alternatives"
         url: /ReferenceTree/Linux/Debian/Commands/update-alternatives
